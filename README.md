@@ -1,4 +1,4 @@
- Data Analysis for Olist (Brazilian E-Commerce)
+Project Name: Data Analysis for Olist (Brazilian E-Commerce)
  
 🔺Project Objective : The goal is to analyze and derive insights into the performance and trends of the Olist store, a Brazilian e-commerce platform. The project aims to provide actionable recommendations to enhance business strategies and overall performance. 📉📚🔗
 
